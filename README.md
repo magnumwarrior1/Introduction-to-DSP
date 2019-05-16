@@ -1,6 +1,5 @@
 # Signal Analysis
-
-One Paragraph of project description goes here
+A series of codes that help in understanding the very fabric of signal analysis with the help of graphical representations that are used to accompny the web series on understanding signals and systems
 
 ## Getting Started
 
@@ -10,19 +9,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 software requierments: 
 MATLAB 
-OCTAVE 
+or 
+OCTAVE
+or 
 SCI Lab
+are all supported 
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-The codes basically provide a more prajmatic overview of signal analysis 
-```
 ## Authors
 
-* **MagnumWarrior** - *Initial work* - [Yashas L.R](https://github.com/magnumwarrior1)
+* **MagnumWarrior** - [Yashas L.R](https://github.com/magnumwarrior1)
 
 ## License
 
